@@ -16,7 +16,7 @@
 * [The Startup Owner's Manual](http://www.amazon.com/dp/0984999302) - A book about building a startup step by step by Steve Blank and Bob Dorf.
 
 ## Cascading Style Sheets
-* To be added. A your own PR to submit books!
+* To be added. Add your own PR to submit books!
 
 ## Development environment
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about learning to use the command line.
@@ -25,13 +25,13 @@
 * See [Awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books).
 
 ## jQuery
-* To be added. A your own PR to submit books!
+* To be added. Add your own PR to submit books!
 
 ## HTML
 * [Dive into HTML5](http://diveintohtml5.info) - A book about HTML5 features by Mark Pilgrim.
 
 ## MySQL
-* To be added. A your own PR to submit books!
+* To be added. Add your own PR to submit books!
 
 ## PHP
 * [PHP: The "Right" Way](http://www.phptherightway.com/) - A book about PHP best practices, coding standards, and authoritative tutorials by Phil Sturgeon and Josh Lockhart.
