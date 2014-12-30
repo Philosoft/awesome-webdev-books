@@ -15,8 +15,8 @@
 * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) - A book that shows an approach to create a successful startup by Eric Ries.
 * [The Startup Owner's Manual](http://www.amazon.com/dp/0984999302) - A book about building a startup step by step by Steve Blank and Bob Dorf.
 
-## Cascading Style Sheets
-* To be added. Add your own PR to submit books!
+## CSS
+* [SMACSS](https://smacss.com/)
 
 ## Development environment
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about learning to use the command line.
@@ -48,7 +48,7 @@
 ## Ruby
 * See [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks#books)
 
-## Search Engine Optimalisation
+## Search Engine Optimization (SEO)
 * To be added. A your own PR to submit books!
 
 ## Templating engines
@@ -57,7 +57,7 @@
 ## Version control
 * [GIT](http://git-scm.com) - A book about how to use GIT for version control.
 
-## Web Performance Optimalisation
+## Web Performance Optimisation
 * See [Awesome-WPO](https://github.com/davidsonfellipe/awesome-wpo#books).
 
 ## Web Usability
